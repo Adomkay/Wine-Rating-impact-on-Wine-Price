@@ -12,13 +12,13 @@
 * Reduced deimensionality of our data by categorizing the wines into 19 different categories ranging from dry/sweet reds to drt/sweet white wines.
 * Vecotorized wine descriptions using sklearn TfidfVectorizer to get a unqique list of all words mentioned in the wine reviews
 
-<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/wine%20rating.png" width="650" height="450">
+<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/images/wine%20rating.png" width="650" height="450">
 
-<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/wine%20price%20distribution.png" width="650" height="450">
+<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/images/wine%20price%20distribution.png" width="650" height="450">
 
-<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/price%20distribtuion%20by%20type%20of%20wine-%20US.png" width="850" height="450">
+<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/images/price%20distribtuion%20by%20type%20of%20wine-%20US.png" width="850" height="450">
 
-<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/price%20distribution%20by%20type%20of%20wine%20-%20other%20countries.png" width="850" height="450">
+<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/images/price%20distribution%20by%20type%20of%20wine%20-%20other%20countries.png" width="850" height="450">
 
 # Results:
 * looking at the relationship to price and rating, we saw that there was small but linear relationship in the price of wine produced in the US, resulting in a R2 of .66. WHile the Wines in Europe, Argentina and Austrlia had less of a linear relationship, since they had higher priced wine ranging above $250 that were reviewing ratings at our mean rate per bottle of wine of 88. 
