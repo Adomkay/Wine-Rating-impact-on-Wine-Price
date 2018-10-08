@@ -1,4 +1,4 @@
-<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/wine.png" width="450" height="550">
+<img src="https://github.com/jarty13/Wine-Rating-impact-on-Wine-Price/blob/master/wine.png" width="250" height="350">
 
 # Project Motivation
 * Is there a linear relationship between the price of wine and the wine rating. If a wine has a higher rating, is there opporunity to increase price of the wine to drive more revenue?
