@@ -26,5 +26,5 @@
 * overall there is opporunity to increase prices on certain wines if their reviews are over 88pts with the price point in the low range, in order to increase revenue. 
  
 # Next Step:
-- Check out my repository classifying the type of wine from 19 different categories based off of the words in a wine review using a multilayer perceptron. I was experimenting with 4 different regularizaiton methods (end early, L1, L2 and Dropout) to see which ones would get me the best results. 
+- Check out my repository classifying the type of wine from 19 different categories based off of the words in a wine review using a multilayer perceptron. I was experimenting with 4 different regularizaiton methods (Early Stopping, L1, L2 and Dropout) to see which ones would get me the best results. 
 https://github.com/jarty13/Using-MLP-to-categorize-wine-based-off-of-wine-reviews
