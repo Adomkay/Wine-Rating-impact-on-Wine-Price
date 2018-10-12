@@ -5,7 +5,7 @@
 * Can wine reviews/descriptions predict the price category of the of the wine?
 
 # Data Clean-up and Exploration
-* Utilizing the Wine Enthusiast dataset from Kaggle, we analyzed the wine reviews/descriptions to see if had an impact on the price of wine that was produced in the US, Europe, Australia, and Argentina
+* Utilizing the Wine Enthusiast dataset from Kaggle, we analyzed the wine reviews/descriptions to see if it had an impact on the price of wine that was produced in the US, Europe, Australia, and Argentina
 * Data included over 130K wine reviews from wines produced in the US, Europe, Australia, and Argentina 
 * Implemented Logistic Regression Classifier  to see if the wine description could accurately categorize if the wine was categorized as "Cheap"( <$15), "Low"( $15- $40)," Medium"($40-$100), "High"(>$100)
 * Reduced dimensionality of the data by categorizing the wines into 19 different categories ranging from dry/sweet reds to dry/sweet white wines.
